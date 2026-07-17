@@ -31,4 +31,11 @@ To deploy a static website on AWS without using a web server.
 (Add your screenshots here.)
 
 ## Author
-Your Team Name
+## Team
+Team Name: AWS Static Website Team
+Developed by:
+- Bhanulavanya Adabala
+- Sai Tejaswi Sangadi
+- Roopa Sree Gurugubilli
+- Padala Prasanna Keerthi
+- Aswanth Ethakottu
