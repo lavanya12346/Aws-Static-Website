@@ -28,7 +28,23 @@ To deploy a static website on AWS without using a web server.
 5. Access website using S3 endpoint
 
 ## Screenshots
-(Add your screenshots here.)
+### AWS Console
+![AWS Console](screenshots/aws-console.png)
+
+### S3 Bucket
+![S3 Bucket](screenshots/bucket-created.png)
+
+### Uploaded Website Files
+![Uploaded Website Files](screenshots/uploaded-files.png)
+
+### Static Website Hosting
+![Static Website Hosting](screenshots/static-hosting-enabled.png)
+
+### Bucket Policy
+![Bucket Policy](screenshots/bucket-policy.png)
+
+### Live Website
+![Live Website](screenshots/website-live.png)
 
 ## Author
 ## Team
